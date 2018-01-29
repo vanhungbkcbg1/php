@@ -15,3 +15,5 @@ $item=new \MyNameSpace\MyClass();
 
 $app=MyInterface::class;
 echo $app;
+
+echo date('Y-m-d 00:00:00');
